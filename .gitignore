@@ -162,3 +162,5 @@ cache_data/
 database/mnist_test
 database/mnist_train
 
+files/MPtutorial.npy
+files/MPtutorial_MSE.npy
